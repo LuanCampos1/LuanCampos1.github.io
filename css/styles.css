@@ -25,6 +25,8 @@ div {
     margin: 100px;
     border: 10px solid whitesmoke;
     text-align: center;
+    background-attachment: fixed;
+    background-image: url();
 }
 
 
@@ -57,5 +59,18 @@ img {
 
 #autor {
     text-transform: uppercase;
+}
+#rogerio{
+    width: auto;
+    height: auto;
+}
+#mn{
+    width: auto;
+    height: auto;
+
+}
+#alek{
+    width: auto;
+    height: auto;
 }
 
