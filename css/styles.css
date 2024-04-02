@@ -12,7 +12,7 @@ h2 {
 }
 
 body {
-    background-color: rgb(39, 36, 36);
+    background-color: rgb(0, 0, 0);
     font-size: 20px;
     text-decoration: none;
     font-family: palatino;
@@ -26,7 +26,7 @@ div {
     border: 10px solid whitesmoke;
     text-align: center;
     background-attachment: fixed;
-    background-image: url();
+    
 }
 
 
@@ -36,20 +36,6 @@ p {
     color: white;
 }
 
-a {
-    text-transform: uppercase;
-    background-color: green;
-    font-size: 14px;
-    font-weight: bold;
-    text-decoration: none;
-    color: white;
-    padding: 8px 15px;
-    border-radius: 20px;
-    text-align: center;
-    display: block;
-    width: max-content;
-    margin: auto;
-}
 
 img {
     width: 600px;
@@ -73,4 +59,57 @@ img {
     width: auto;
     height: auto;
 }
+#minecraft{
+    height: 900px;
+    width: 1000px;
+    
+}
 
+.botao{
+    border: solid 1px #231F20;
+    border-radius: 13px;
+    color: white;
+    background-color: black;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+    align-items: center;
+    width: 24.8%;
+    height: 30px;
+    border-color: black;
+
+}
+.botao:hover{
+    background-color: purple;
+    color: white;
+    transform: scale(1.2)
+}
+#lol{
+    width:50px ;
+    height:50px ;
+    border: none;
+    
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    position: left;
+    width: 100%;
+
+    
+}
+footer{
+    text-align: center;
+
+}
+#zé{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.ancoral{
+    margin-left: 45px;
+    margin-right: 45px;
+}
