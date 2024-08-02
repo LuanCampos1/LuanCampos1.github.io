@@ -1,0 +1,43 @@
+:root{
+    --cor1: #222
+    --cor2: #333
+}
+
+body{
+    background-color: black;
+    background-size: cover ;
+    border-width: 15px;
+    border-color: whitesmoke;
+    border-style: solid;
+    margin: 10px 300px 100px 300px;
+    
+    
+}
+div{
+    text-align: center;
+    
+}
+p{
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+}
+h3{
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace
+}
+img{
+    max-width: 500px;
+    min-width: 400px;
+}
+
+#textoupercase{
+    font-size: 20px;
+}
