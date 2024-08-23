@@ -10,6 +10,7 @@ body{
     border-color: whitesmoke;
     border-style: solid;
     margin: 100px 300px 100px 300px;
+    display: flex;
     
     
 }
